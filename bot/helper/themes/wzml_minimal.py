@@ -2,13 +2,13 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = "Repo"
-    ST_BN1_URL = "https://www.github.com/weebzone/WZML-X"
-    ST_BN2_NAME = "Updates"
-    ST_BN2_URL = "https://t.me/WZML_X"
+    ST_BN1_NAME = "𝖴𝗉𝖽𝖺𝗍𝖾𝗌 🚀"
+    ST_BN1_URL = "https://t.me/MKxBoTz"
+    ST_BN2_NAME = "𝖮𝗐𝗇𝖾𝗋 😎"
+    ST_BN2_URL = "https://t.me/Monster_Mk_Bot"
     ST_MSG = """<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands</b>"""
-    ST_BOTPM = """<i>Now, This bot will send all your files and links here. Start Using ...</i>"""
+    ST_BOTPM = """<i>𝖭𝗈𝗐, 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝗂𝗅𝗅 𝖲𝖾𝗇𝖽 𝖠𝗅𝗅 𝖸𝗈𝗎𝗋 𝖥𝗂𝗅𝖾𝗌 𝖠𝗇𝖽 𝖫𝗂𝗇𝗄𝗌 𝖧𝖾𝗋𝖾. 𝖲𝗍𝖺𝗋𝗍 𝖴𝗌𝗂𝗇𝗀 ...</i>"""
     ST_UNAUTH = """<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>"""
     OWN_TOKEN_GENERATE = (
         """<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>"""
